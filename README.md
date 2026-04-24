@@ -1,6 +1,4 @@
 <img src="assets/banner.png" width="100%" />
-<br/>
-<br/>
 
 # 👋 Olá, me chamo Thábata Jorcovix!
 
