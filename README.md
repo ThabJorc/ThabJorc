@@ -3,7 +3,7 @@
 <h1 align="center"> Boas-vindas!</h1>
 
 <p align="center">
-💻 Front-end Developer • UX/UI Designer <br>
+Front-end Developer • UX/UI Designer <br>
 Criando interfaces funcionais, intuitivas e acessíveis
 </p>
 
