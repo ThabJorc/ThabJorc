@@ -1,21 +1,41 @@
 <img src="assets/banner.png" width="100%" />
 
-# Olá, me chamo Thábata Jorcovix!
+<h1 align="center"> Boas-vindas!</h1>
 
-💻 Front-end Developer com foco em UX/UI  
-Sou apaixonada por criar interfaces funcionais, bonitas e acessíveis  
-- Experiência com React, React Native e projetos mobile-first  
+<p align="center">
+💻 Front-end Developer • UX/UI Designer <br>
+Criando interfaces funcionais, intuitivas e acessíveis
+</p>
 
 ---
 
-## Tecnologias
+##  Sobre mim
 
-![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-8A4FFF?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-9B5DE5?style=for-the-badge)
+Sou desenvolvedora front-end com foco em **UX/UI**, apaixonada por transformar ideias em interfaces claras, eficientes e visualmente agradáveis.
+
+Tenho experiência com aplicações **mobile-first**, integração com APIs e construção de interfaces voltadas para **usabilidade real**, inclusive para públicos com menor familiaridade tecnológica.
+
+---
+
+##  Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-3-8A4FFF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/UX%2FUI-Design-9B5DE5?style=for-the-badge" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThabJorc&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabJorc&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -23,15 +43,31 @@ Sou apaixonada por criar interfaces funcionais, bonitas e acessíveis
 
 ### Ticket Flow
 
-Sistema de gerenciamento de chamados com foco em **usabilidade**, **clareza visual** e **experiência do usuário**.
+Sistema de gerenciamento de chamados desenvolvido com foco em:
 
-🔗 [Acessar repositório](https://github.com/ThabJorc/Ticket-Flow)
+-  Usabilidade para usuários reais  
+- Interface mobile-first  
+-  Performance e clareza de dados  
 
-**Tecnologias:** HTML, CSS e JavaScript
+🔗 **[Acessar repositório](https://github.com/ThabJorc/Ticket-Flow)**  
+
+💡 Tecnologias: HTML, CSS e JavaScript  
 
 ---
 
-## 📫 Contato
+## 🌐 Contato
 
-- 💼 LinkedIn: [thabata-jorcovix-rodrigues](https://www.linkedin.com/in/thabata-jorcovix-rodrigues-ba088b177/)
-- 🌐 Portfólio: [portf-thab-jorc.netlify.app](https://portf-thab-jorc.netlify.app)
+<p align="center">
+  <a href="https://www.linkedin.com/in/thabata-jorcovix-rodrigues-ba088b177/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portf-thab-jorc.netlify.app">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+ Sempre buscando evoluir como desenvolvedora e criar experiências cada vez melhores 
+</p>
