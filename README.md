@@ -1,6 +1,6 @@
 <img src="assets/banner.png" width="100%" />
 
-# 👋 Olá, me chamo Thábata Jorcovix!
+# Olá, me chamo Thábata Jorcovix!
 
 💻 Front-end Developer com foco em UX/UI  
 Sou apaixonada por criar interfaces funcionais, bonitas e acessíveis  
