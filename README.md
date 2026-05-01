@@ -34,8 +34,6 @@ Tenho experiência com aplicações **mobile-first**, integração com APIs e co
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThabJorc&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabJorc&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
