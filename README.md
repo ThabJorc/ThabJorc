@@ -51,7 +51,22 @@ Sistema de gerenciamento de chamados desenvolvido com foco em:
 
 🔗 **[Acessar repositório](https://github.com/ThabJorc/Ticket-Flow)**  
 
-💡 Tecnologias: HTML, CSS e JavaScript  
+Tecnologias: HTML, CSS e JavaScript 
+
+---
+
+🧠 Bloquinho — Dashboard de Anotações
+
+Aplicação focada em organização pessoal, com estrutura inspirada em Scrum/Kanban, priorizando usabilidade e clareza.
+
+Interface mobile-first
+Organização de anotações por contexto
+Estrutura modular e escalável
+Simulação de fluxo real de produto
+
+🔗 **[Acessar repositório](https://https://github.com/ThabJorc/Bloquinho)**
+
+Tecnologias: React, TypeScript, Vite, MockAPI
 
 ---
 
