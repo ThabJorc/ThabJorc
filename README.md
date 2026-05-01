@@ -30,7 +30,7 @@ Tenho experiência com aplicações **mobile-first**, integração com APIs e co
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThabJorc&show_icons=true&theme=tokyonight&hide_border=true"/>
