@@ -11,7 +11,7 @@ Criando interfaces funcionais, intuitivas e acessíveis
 
 ##  Sobre mim
 
-Sou desenvolvedora front-end com foco em **UX/UI**, apaixonada por transformar ideias em interfaces claras, eficientes e visualmente agradáveis.
+Sou desenvolvedora front-end com foco em **UX/UI**- transformo ideias em interfaces claras, eficientes e visualmente agradáveis.
 
 Tenho experiência com aplicações **mobile-first**, integração com APIs e construção de interfaces voltadas para **usabilidade real**, inclusive para públicos com menor familiaridade tecnológica.
 
@@ -33,8 +33,7 @@ Tenho experiência com aplicações **mobile-first**, integração com APIs e co
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThabJorc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabJorc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThabJorc&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
