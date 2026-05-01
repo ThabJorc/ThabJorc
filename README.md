@@ -19,12 +19,10 @@ Tenho experiência com aplicações **mobile-first**, integração com APIs e co
 
 ## 🛠️ Tecnologias
 
-### 💻 Front-end
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🎨 UX/UI
 <p align="center">
   UX/UI • Mobile-first • Acessibilidade • Design focado no usuário
 </p>
