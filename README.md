@@ -11,13 +11,13 @@ Criando interfaces funcionais, intuitivas e acessíveis
 
 ##  Sobre mim
 
-Sou desenvolvedora front-end com foco em **UX/UI**- transformo ideias em interfaces claras, eficientes e visualmente agradáveis.
+Sou desenvolvedora front-end com foco em **UX/UI** - transformo ideias em interfaces claras, eficientes e visualmente agradáveis.
 
 Tenho experiência com aplicações **mobile-first**, integração com APIs e construção de interfaces voltadas para **usabilidade real**, inclusive para públicos com menor familiaridade tecnológica.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
@@ -33,7 +33,7 @@ Tenho experiência com aplicações **mobile-first**, integração com APIs e co
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThabJorc&theme=tokyonight&hide_border=true" />
@@ -72,7 +72,7 @@ Tecnologias: React, TypeScript, Vite, MockAPI
 
 ---
 
-## 🌐 Contato
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thabata-jorcovix-rodrigues-ba088b177/">
