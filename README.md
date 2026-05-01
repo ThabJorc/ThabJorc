@@ -73,7 +73,7 @@ Organização de anotações por contexto
 Estrutura modular e escalável
 Simulação de fluxo real de produto
 
-🔗 **[Acessar repositório](https://https://github.com/ThabJorc/Bloquinho)**
+🔗 **[Acessar repositório](https://github.com/ThabJorc/Bloquinho)**
 
 Tecnologias: React, TypeScript, Vite, MockAPI
 
