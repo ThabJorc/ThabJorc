@@ -33,13 +33,13 @@ Tenho experiência com aplicações **mobile-first**, integração com APIs e co
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThabJorc&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabJorc&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThabJorc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabJorc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 ### Ticket Flow
 
@@ -55,7 +55,7 @@ Tecnologias: HTML, CSS e JavaScript
 
 ---
 
-🧠 Bloquinho — Dashboard de Anotações
+##  Bloquinho 
 
 Aplicação focada em organização pessoal, com estrutura inspirada em Scrum/Kanban, priorizando usabilidade e clareza.
 
