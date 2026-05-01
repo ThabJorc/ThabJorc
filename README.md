@@ -54,14 +54,14 @@ Tecnologias: HTML, CSS e JavaScript
 
 ---
 
-##  Bloquinho 
+## Bloquinho — Dashboard de Anotações
 
 Aplicação focada em organização pessoal, com estrutura inspirada em Scrum/Kanban, priorizando usabilidade e clareza.
 
-Interface mobile-first
-Organização de anotações por contexto
-Estrutura modular e escalável
-Simulação de fluxo real de produto
+- Interface mobile-first
+- Organização de anotações por contexto
+- Estrutura modular e escalável
+- Simulação de fluxo real de produto
 
 🔗 **[Acessar repositório](https://github.com/ThabJorc/Bloquinho)**
 
