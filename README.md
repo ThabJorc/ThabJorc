@@ -20,7 +20,7 @@ Tenho experiência com aplicações **mobile-first**, integração com APIs e co
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
 <p align="center">
