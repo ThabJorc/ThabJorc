@@ -57,7 +57,7 @@ Tecnologias: HTML, CSS e JavaScript
 
 ---
 
-## Bloquinho — Dashboard de Anotações
+### Bloquinho — Dashboard de Anotações
 
 Aplicação focada em organização pessoal, com estrutura inspirada em Scrum/Kanban, priorizando usabilidade e clareza.
 
@@ -69,6 +69,21 @@ Aplicação focada em organização pessoal, com estrutura inspirada em Scrum/Ka
 🔗 **[Acessar repositório](https://github.com/ThabJorc/Bloquinho)**
 
 Tecnologias: React, TypeScript, Vite, MockAPI
+
+---
+
+### Loja Virtual - Aplicação de e-commerce
+
+O projeto consiste em uma loja virtual que consome uma API REST simulada com JSON Server.
+
+- Listagem de produtos consumindo API REST
+- Busca e filtragem de produtos
+- Carrinho de compras
+- Interface mobile-first
+
+🔗 **[Acessar repositório](https://github.com/ThabJorc/react-ecommerce-case)**
+
+Tecnologias: React com TypeScript, JSON Server, Context API
 
 ---
 
